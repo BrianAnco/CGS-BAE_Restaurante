@@ -1,0 +1,287 @@
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmCaja.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmClientes.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmControl.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmDashboard.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmEmpleados.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmEmpresa.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmLogin.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmMantenimiento.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmMenu.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmMesas.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmPedidos.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmPrincipal.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmProductos.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmReportes.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmReservas.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.Properties.Resources.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.csproj.GenerateResource.cache
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.csproj.CoreCompileInputs.cache
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.csprojAssemblyReference.cache
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Presentacion.exe.config
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Presentacion.exe
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Presentacion.pdb
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Negocios.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Newtonsoft.Json.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Datos.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Entidad.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Negocios.pdb
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Newtonsoft.Json.xml
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Datos.pdb
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Entidad.pdb
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.csproj.CopyComplete
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.exe
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.pdb
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmDocVenta.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmStart.resources
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\EnvDTE.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\stdole.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.MSXML.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Laboratorios Programación II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.csprojAssemblyReference.cache
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmCaja.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmClientes.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmControl.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmDashboard.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmDocVenta.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmEmpleados.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmEmpresa.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmLogin.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmMantenimiento.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmMenu.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmMesas.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmPedidos.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmPrincipal.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmProductos.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmReportes.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmReservas.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.Reportes.FrmFlujoCaja.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmStart.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.Properties.Resources.resources
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.csproj.GenerateResource.cache
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\RdlCompile.cache
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\RdlCompile.compiled
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.csproj.CoreCompileInputs.cache
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.exe
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.pdb
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Presentacion.exe.config
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Presentacion.exe
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Presentacion.pdb
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Negocios.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Newtonsoft.Json.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Datos.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Entidad.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\EnvDTE.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\stdole.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.MSXML.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Negocios.pdb
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\Newtonsoft.Json.xml
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Datos.pdb
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Entidad.pdb
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.csproj.CopyComplete
+D:\Cursos UPT\Programacion II\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.Reportes.FrmPedidosFecha.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Presentacion.exe.config
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Presentacion.exe
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Presentacion.pdb
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Negocios.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Datos.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Entidad.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\stdole.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Negocios.pdb
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Datos.pdb
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\BAE_Restaurante.Entidad.pdb
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.csprojAssemblyReference.cache
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmCaja.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmClientes.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmControl.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmDashboard.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmDocVenta.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmEmpleados.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmEmpresa.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmLogin.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmMantenimiento.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmMenu.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmMesas.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmPedidos.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmPrincipal.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmProductos.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmReportes.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmReservas.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.Reportes.FrmFlujoCaja.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.FrmStart.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.Properties.Resources.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.Reportes.FrmPedidosFecha.resources
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.csproj.GenerateResource.cache
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.csproj.CopyComplete
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.exe
+C:\Users\BRIAN ANCO\Desktop\proyecto-grupal-iii-unidad-grupo_u3_martinez_anco_pomez-master\BAE_Restaurante.Presentacion\obj\Debug\BAE_Restaurante.Presentacion.pdb
